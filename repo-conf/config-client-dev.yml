@@ -1,6 +1,6 @@
 server:
   port: 8763
-test: this is a version 1234567890
+test: this is a version 1234567890123
 management:
   endpoints:
     web:
