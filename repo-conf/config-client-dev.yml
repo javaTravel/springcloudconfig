@@ -1,6 +1,6 @@
 server:
   port: 8763
-test: this is a version 1234567890123-8763-rabbit-refresh-bus
+test: this is a version 1234567890123-8763-rabbit-refresh
 # 使用bus总线刷新配置文件
 management:
   endpoints:
