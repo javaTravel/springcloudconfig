@@ -1,6 +1,6 @@
 server:
   port: 8763
-test: this is a version 1234567890123-8763-rabbit
+test: this is a version 1234567890123-8763-rabbit-refresh
 management:
   endpoints:
     web:
