@@ -1,11 +1,6 @@
 server:
   port: 8764
 test: this is a version 1234567890123-8764-rabbit-refresh-bus
-management:
-  endpoints:
-    web:
-      exposure:
-        include: "*"
 eureka:
   client:
     service-url: 
